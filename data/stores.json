@@ -1,0 +1,8 @@
+[
+  { "name": "Магазин-1", "x": 12,  "y": 8,   "unloadingMinutes": 20 },
+  { "name": "Магазин-2", "x": 15,  "y": 12,  "unloadingMinutes": 25 },
+  { "name": "Магазин-3", "x": -10, "y": 18,  "unloadingMinutes": 15 },
+  { "name": "Магазин-4", "x": -6,  "y": -14, "unloadingMinutes": 20 },
+  { "name": "Магазин-5", "x": 22,  "y": -5,  "unloadingMinutes": 15 },
+  { "name": "Магазин-6", "x": 3,   "y": 25,  "unloadingMinutes": 20 }
+]

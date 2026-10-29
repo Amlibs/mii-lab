@@ -1,0 +1,48 @@
+[
+  {
+    "id": "З-1", "store": "Магазин-1", "windowFrom": "10:00", "windowTo": "14:00",
+    "items": [
+      { "product": "Молоко", "weightKg": 200 },
+      { "product": "Хлеб",   "weightKg": 100 }
+    ]
+  },
+  {
+    "id": "З-2", "store": "Магазин-2", "windowFrom": "11:00", "windowTo": "15:00",
+    "items": [
+      { "product": "Вода",  "weightKg": 350 },
+      { "product": "Крупа", "weightKg": 150 }
+    ]
+  },
+  {
+    "id": "З-3", "store": "Магазин-3", "windowFrom": "09:00", "windowTo": "11:00",
+    "items": [
+      { "product": "Овощи", "weightKg": 400 }
+    ]
+  },
+  {
+    "id": "З-4", "store": "Магазин-4", "windowFrom": "13:00", "windowTo": "17:00",
+    "items": [
+      { "product": "Молоко", "weightKg": 250 },
+      { "product": "Сыр",    "weightKg": 80 }
+    ]
+  },
+  {
+    "id": "З-5", "store": "Магазин-5", "windowFrom": "10:00", "windowTo": "12:00",
+    "items": [
+      { "product": "Вода", "weightKg": 600 }
+    ]
+  },
+  {
+    "id": "З-6", "store": "Магазин-6", "windowFrom": "14:00", "windowTo": "18:00",
+    "items": [
+      { "product": "Хлеб",  "weightKg": 150 },
+      { "product": "Овощи", "weightKg": 250 }
+    ]
+  },
+  {
+    "id": "З-7", "store": "Магазин-1", "windowFrom": "10:00", "windowTo": "14:00",
+    "items": [
+      { "product": "Крупа", "weightKg": 300 }
+    ]
+  }
+]

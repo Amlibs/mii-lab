@@ -1,0 +1,6 @@
+[
+  { "name": "Авто-1", "warehouse": "Склад-1", "capacityKg": 1000, "speedKmh": 50, "costPerKm": 20 },
+  { "name": "Авто-2", "warehouse": "Склад-1", "capacityKg": 1500, "speedKmh": 45, "costPerKm": 25 },
+  { "name": "Авто-3", "warehouse": "Склад-2", "capacityKg": 800,  "speedKmh": 55, "costPerKm": 18 },
+  { "name": "Авто-4", "warehouse": "Склад-2", "capacityKg": 1200, "speedKmh": 50, "costPerKm": 22 }
+]
